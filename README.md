@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laravel CMS and API with Laravel Generator
 
 =======
