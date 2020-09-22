@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "img":  "../../../assets/img/dummy-img/logo-4.jpg",
+      "title": "PT. Kino Indonesia Tbk",
+      "slug": "pt-kino-indonesia-tbk",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 2,
+      "img": "../../../assets/img/dummy-img/logo-4.jpg",
+      "title": "PT. Kino Food Indonesia",
+      "slug": "pt-kino-food-indonesia",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 3,
+      "img": "../../../assets/img/dummy-img/logo-4.jpg",
+      "title": "Kino International",
+      "slug": "kino-international",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 4,
+      "img": "../../../assets/img/dummy-img/logo-2.jpg",
+      "title": "PT. Dutalestari Sentratama",
+      "slug": "pt-dutalestari-sentratama",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 5,
+      "img": "../../../assets/img/dummy-img/logo-1.jpg",
+      "title": "PT. Ristra Klinik Indonesia",
+      "slug": "pt-ristra-klinik-indonesia",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 6,
+      "img": "../../../assets/img/dummy-img/logo-6.png",
+      "title": "PT. Ristra Laboratories Indonesia",
+      "slug": "pt-ristra-laboratories-indonesia",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 7,
+      "img": "../../../assets/img/dummy-img/logo-4.jpg",
+      "title": "PT. Kino Ecomm Solusindo",
+      "slug": "pt-kino-ecomm-solusindo",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 8,
+      "img": "../../../assets/img/dummy-img/logo-4.jpg",
+      "title": "PT. Kino Malee Indonesia",
+      "slug": "pt-kino-malee-indonesia",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    },
+    {
+      "id": 9,
+      "img": "../../../assets/img/dummy-img/logo-5.jpg",
+      "title": "PT. Kino PetWorld Marketing Indonesia",
+      "slug": "pt-kino-petWorld-marketing-indonesia",
+      "detail": "Kino Indonesia Tbk. was established in 1999 with only one factory and 58 employees, in 2014 had became a"
+    }
+  ]

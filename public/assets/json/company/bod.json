@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Harry Sanusi",
+      "position": "CEO and President Director",
+      "photo": "../../../assets/img/people/harry.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 2,
+      "name": "Budi Mulyono",
+      "position": "Director",
+      "photo": "../../../assets/img/people/budi-mulyo.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 3,
+      "name": "Budi Susanto",
+      "position": "Director",
+      "photo": "../../../assets/img/people/budi-susan.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 4,
+      "name": "Lukas Nugroho",
+      "position": "Director",
+      "photo": "../../../assets/img/people/lukas.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 5,
+      "name": "Adjie Rustam Ramdja",
+      "position": "Director",
+      "photo": "../../../assets/img/people/adjie-rustam.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 6,
+      "name": "Alfonso Djakaria Rahardja",
+      "position": "Director",
+      "photo": "../../../assets/img/people/alfonso.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 7,
+      "name": "Kurdi Gunawan",
+      "position": "Director",
+      "photo": "../../../assets/img/people/Kurdi.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 8,
+      "name": "Benny Kurniawan",
+      "position": "Director",
+      "photo": "../../../assets/img/people/benny.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    }
+  ]

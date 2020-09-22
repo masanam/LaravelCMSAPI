@@ -1,0 +1,328 @@
+[
+  {
+    "id": 1,
+    "title": "Company",
+    "url": "company" ,
+    "child": [
+      {
+        "id": 1,
+        "title": "About Us",
+        "url": null,
+        "child": [
+          {
+            "id": 2,
+            "title": "About Kino",
+            "url": "about",
+            "child": null
+          },
+          {
+            "id": 3,
+            "title": "Milestone",
+            "url": "milestone",
+            "child": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Kino at a Glance",
+        "url": "kino-at-a-glance",
+        "child": null
+      },
+      {
+        "id": 5,
+        "title": "Achievement & Certification",
+        "url": "achievement-certification",
+        "child": null
+      },
+      {
+        "id": 6,
+        "title": "Management",
+        "url": null,
+        "child": [
+          {
+            "id": 7,
+            "title": "Board of Director",
+            "url": "board-of-director"
+          },
+          {
+            "id": 8,
+            "title": "Board of Commissioners",
+            "url": "board-of-commissioners"
+          },
+          {
+            "id": 9,
+            "title": "Committees Structure",
+            "url": "committees-structure"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Distribution",
+        "url": "distribution",
+        "child": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Brands",
+    "url": "brands" ,
+    "child": [
+      {
+        "id": 1,
+        "title": "Latest Innovations",
+        "url": "latest-innovations",
+        "child": null
+      },
+      {
+        "id": 4,
+        "title": "Our Brand",
+        "url": "our-brand",
+        "child": [
+            {
+              "id": 2,
+              "title": "Hair Care",
+              "url": "hair-care"
+            },
+            {
+              "id": 3,
+              "title": "Skin Care",
+              "url": "skin-care"
+            },
+            {
+              "id": 4,
+              "title": "Feminine Hygiene",
+              "url": "feminine-hygiene"
+            },
+            {
+              "id": 4,
+              "title": "Baby Cleanser",
+              "url": "baby-cleanser"
+            },
+            {
+              "id": 5,
+              "title": "Kids Personal Care",
+              "url": "kids-personal-care"
+            },
+            {
+              "id": 6,
+              "title": "Hygiene Product",
+              "url": "hygiene-product"
+            },
+            {
+              "id": 7,
+              "title": "Fragrance",
+              "url": "fragrance"
+            },
+            {
+              "id": 8,
+              "title": "Master Men",
+              "url": "master-men"
+            },
+            {
+              "id": 9,
+              "title": "Oral Care",
+              "url": "oral-care"
+            },
+            {
+              "id": 10,
+              "title": "Air Freshner",
+              "url": "air-freshner"
+            },
+            {
+              "id": 11,
+              "title": "Decorative",
+              "url": "decorative"
+            },
+            {
+              "id": 12,
+              "title": "Remedy Drink",
+              "url": "remedy-drink"
+            },
+            {
+              "id": 13,
+              "title": "Energy Drink",
+              "url": "energy-drink"
+            },
+            {
+              "id": 14,
+              "title": "Asia Drink",
+              "url": "asia-drink"
+            },
+            {
+              "id": 15,
+              "title": "Juice Drink",
+              "url": "juice-drink"
+            },
+            {
+              "id": 16,
+              "title": "Isotonik",
+              "url": "isotonik"
+            },
+            {
+              "id": 17,
+              "title": "Canned Fruit",
+              "url": "canned-fruit"
+            },
+            {
+              "id": 18,
+              "title": "Confectionaries",
+              "url": "confectionaries"
+            },
+            {
+              "id": 19,
+              "title": "Powder Drink",
+              "url": "powder-drink"
+            },
+            {
+              "id": 20,
+              "title": "Snack",
+              "url": "snack"
+            },
+            {
+              "id": 21,
+              "title": "Pet Food",
+              "url": "pet-food"
+            },
+            {
+              "id": 22,
+              "title": "Pharmaceutical",
+              "url": "pharmaceutical"
+            }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Investor",
+    "url": "investor" ,
+    "child": [
+      {
+        "id": 1,
+        "title": "Corporate Information",
+        "url": "corporate-information" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Company Structure",
+        "url": null ,
+        "child": [
+          {
+            "id": 1,
+            "title": "Shareholding Structure",
+            "url": "shareholding-structure" ,
+            "child": null
+          },
+          {
+            "id": 1,
+            "title": "Organization Structure",
+            "url": "organization-structure" ,
+            "child": null
+          },
+          {
+            "id": 1,
+            "title": "Share Information",
+            "url": "share-information" ,
+            "child": null
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Announcement",
+        "url": "announcement" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "General Meeting of Shareholders",
+        "url": "general-meeting-of-shareholders" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Report",
+        "url": "report" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Corporate Governance",
+        "url": "corporate-governance" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Investor Contact",
+        "url": "investor-contact" ,
+        "child": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "News & Events",
+    "url": "news-events" ,
+    "child": [
+      {
+        "id": 1,
+        "title": "News",
+        "url": "news" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Event",
+        "url": "event" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "CSR",
+        "url": "csr" ,
+        "child": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Careers",
+    "url": "careers" ,
+    "child": [
+      {
+        "id": 1,
+        "title": "Work at Kino",
+        "url": "work-at-kino" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Join With Us",
+        "url": "join-with-us" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Development & Program",
+        "url": "development-program" ,
+        "child": null
+      },
+      {
+        "id": 1,
+        "title": "Testimonies",
+        "url": "testimonies" ,
+        "child": null
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Contact Us",
+    "url": "contact-us" ,
+    "child": null
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "Sidartha Prawira",
+      "position": "Director",
+      "photo": "../../../assets/img/people/sidaharta.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 2,
+      "name": "Susanto Setiono",
+      "position": "Director",
+      "photo": "../../../assets/img/people/susanto.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 3,
+      "name": "Adjie Rustam Ramdja",
+      "position": "Director",
+      "photo": "../../../assets/img/people/adjie-rustam.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    },
+    {
+      "id": 4,
+      "name": "Alfonso Djakaria Rahardja",
+      "position": "Director",
+      "photo": "../../../assets/img/people/alfonso.jpg",
+      "description": "lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum lorem ipsum blab laba wqheqwheiowqh ipsum ipsum"
+    }
+  ]

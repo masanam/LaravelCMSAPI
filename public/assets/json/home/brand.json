@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "img":  "../../../assets/img/dummy-img/b-1.png",
+      "alt": "Fragrance"
+    },
+    {
+      "id": 2,
+      "img": "../../../assets/img/dummy-img/b-2.png",
+      "alt": "Remedy Drink"
+    },
+    {
+      "id": 3,
+      "img": "../../../assets/img/dummy-img/b-3.png",
+      "alt": "Hygiene Product"
+    },
+    {
+      "id": 4,
+      "img": "../../../assets/img/dummy-img/b-4.png",
+      "alt": "Master Men"
+    },
+    {
+      "id": 5,
+      "img": "../../../assets/img/dummy-img/b-5.png",
+      "alt": "Kids PC"
+    }
+  ]

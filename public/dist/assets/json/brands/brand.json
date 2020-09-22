@@ -1,0 +1,599 @@
+[
+  {
+    "id": 1,
+    "title": "Latest Innovation",
+    "slug": "latest-innovations",
+    "img": "../../../assets/img/bg-page/brands/bg-latest.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img": "../../../assets/img/brands/variety/sleek-baby/foamywash.jpg",
+        "title": "Sleek Baby Natural Antibacterial 2 in 1 Hair & Body Foamy Wash",
+        "slug": "sleek-baby-natural-antibacterial-2-in-1-hair-body-foamy-wash",
+        "detail": "PT. Kino Indonesia Tbk.For more than was estabilished Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate",
+        "date": "2020-06-24"
+      },
+      {
+        "id": 2,
+        "img": "../../../assets/img/brands/variety/sleek-baby/diaper-cream.jpg",
+        "title": "Sleek Baby Natural Antibacterial Diaper Cream",
+        "slug": "sleek-baby-natural-antibacterial-diaper-cream",
+        "detail": "Sleek Baby 2 in 1 Hair &amp; Body Liquid Wash. Killing bacteria with natural antibacterial and very gentle to sensitive skin and safe for your baby.",
+        "date": "2020-06-24"
+      },
+      {
+        "id": 3,
+        "img": "../../../assets/img/brands/variety/sleek-baby/liquidsoap.jpg",
+        "title": "Sleek Baby Natural Antibacterial 2 in 1 Hair & Body Liquid Wash",
+        "slug": "sleek-baby-natural-antibacterial-2-in-1-hair-body-liquid-wash",
+        "detail": "With Hypoallergenic Formula and Natural Antibacterial proven dermatologically proven effectively kill the bacteria that irritate. Soft foam is safe for newborns.",
+        "date": "2020-06-24"
+      },
+      {
+        "id": 4,
+        "img": "../../../assets/img/brands/variety/elipse/Ellips-CuticleSerum.jpg",
+        "title": "Ellips Hair Vitamin Cuticle Serum",
+        "slug": "ellips-hair-vitamin-cuticle-serum",
+        "detail": "Natural formula Antibacterial hypoallergenic and dermatologically tested proved effective at killing bacteria that cause irritation, especially in the diaper area. Use each time changing diapers to prevent the bacteria that causes the rash appears.",
+        "date": "2020-06-24"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Hair Care",
+    "slug": "hair-care",
+    "img": "../../../assets/img/bg-page/brands/bg-hair.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/1.jpg",
+        "title": "Ellips",
+        "slug": "ellips",
+        "detail": "One of the most appealing things in women is her healthy, shiny, silky soft hair. No matter what her activities are, be it indoor or outdoor, the way her hair is styled is always a concern. As technology and lifestyle creates various instant alternatives to beautify each locks, this too...",
+        "variety": [
+          {
+            "id": 1,
+            "name": "Cuticle Serum",
+            "description": "Present to women with strand of thin hair. Enriched with Pro Vitamin B5 to treat and nourishing up to the hair shaft. Your hair healthy and nutrient without looking limp.",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-CuticleSerum.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Hair Vitamin Bali Series",
+            "description": "Enriched with Frangipani Bali Essential Oil and Antioxidants nourishes the hair shaft with an exotic scent.<br><br>Variant:<br>Nourish & Protect, and Nourish & Soften",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-Balinese.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Hair Vitamin Moroccan Series",
+            "description": "Ellips Hair Vitamin with the latest formula enriched with Moroccan Oil to maintain and improve hair structure, making hair beautiful sparkling, soft and manageable.<br><br>Variant:<br>Hair Treatment, Smooth & Shiny, Nutri Color, Shiny Black, and Hair Vitality",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-EHV-Moroccan.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Hair Vitamin Keratin Series",
+            "description": "Ellipse hair vitamins with advanced technology Pro-Keratin Complex make hair twice healthier and smoother after use.<br><br>Variant:<br><br>Hair Repair, Smooth & Silky, and Silky Black",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-ProK.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Hair Conditioner",
+            "description": "Milkshake Leave-On Conditioner with Milk Protein, Wheat Protein and Pro-Vitamin B-5 which nourishes damaged hair and makes hair smooth and smooth soft at once. Hair becomes healthy, smooth, soft and fragrant. Shake and spray anytime, anywhere.",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-Milkshake.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Ultra Treatment",
+            "description": "Ellips hair vitamins with Everlasting Flower and Camelia Oil (Green Tea) help treat symptoms of aging hair such as dull, brittle & dry so healthy hair is maintained.",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-UT.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Hair Mask Moroccan Series",
+            "description": "Hair masks are enriched with vitamins that nourish the hair shaft and make hair healthier, stronger and fragrant.<br><br>Variant:<br><br>Hair Treatment, Smooth & Shiny, Nutri Color, and Volume Miracle",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-'Moroccan.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Hair Mask Keratin Series",
+            "description": "Hair mask with vitamin-enriched Pro-Keratin Complex to treat and nourish it into the hair shaft. Healthy and nourished hair. Only 1 minute, 1 time a week.<br><br>Variant:<br><br>Hair Repair, Smooth & Silky, and Silky Black",
+            "img": "../../../assets/img/brands/variety/elipse/Ellips-ProK.jpg"
+          },
+          {
+            "id": 9,
+            "name": "Dry Shampoo",
+            "description": "A quick solution when you don't have enough time to wash your hair. Use Ellips Dry Shampoo with the best formulation that can absorb oil in hair and scalp instantly. Make hair limp free, soft and volume like after shampooing. With a fragrance that gives freshness keep you confident.<br><br>Variant:<br><br>Blossom, Fruity, Exotic, and Breeze",
+            "img": "../../../assets/img/brands/variety/elipse/EDS.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "img":  "../../../assets/img/brands/2.jpg",
+        "title": "Samantha",
+        "slug": "samantha",
+        "detail": "Sometimes women tend to get bored with the same hair color. Hair coloring has become a lifestyle and feel more confident after doing it. Aside from being a fashion, hair colorant are able to cover the shortfall in the hair. For example, to cover your gray white hair. Answering all..."
+      },
+      {
+        "id": 3,
+        "img":  "../../../assets/img/brands/3.jpg",
+        "title": "Sasha Hair Vitamin",
+        "slug": "sasha-hair-vitamin",
+        "detail": "Women and style are two things that cannot be separated. Here are a few things that women love to do: stay updated with the current fashion trend, follow new beauty trends, and experiment with their looks. For every women, hair style is always a concern. Even for for those wearing..."
+      },
+      {
+        "id": 4,
+        "img":  "../../../assets/img/brands/4.jpg",
+        "title": "Master",
+        "slug": "master",
+        "detail": "Natural formula Antibacterial hypoallergenic and dermatologically tested proved effective at killing bacteria that cause irritation, especially in the diaper area. Use each time changing diapers to prevent the bacteria that causes the rash appears."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Skin Care",
+    "slug": "skin-care",
+    "img": "../../../assets/img/bg-page/brands/bg-skincare.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/5.jpg",
+        "title": "Ovale",
+        "slug": "ovale",
+        "detail": "Looking beautiful can be an unforgettable first impression. But being pretty has never been enough. That is why every smart woman knows that perfect beauty starts from a clean face because it is a reflection of the body hygiene. Ovale becomes the right answer to all women who desire a..."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Feminine Hygiene",
+    "slug": "feminine-hygiene",
+    "img": "../../../assets/img/bg-page/brands/bg-feminime.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/6.jpg",
+        "title": "Absolute",
+        "slug": "absolute",
+        "detail": "Looking beautiful can be an unforgettable first impression. But being pretty has never been enough. That is why every smart woman knows that perfect beauty starts from a clean face because it is a reflection of the body hygiene. Ovale becomes the right answer to all women who desire a..."
+      },
+      {
+        "id": 2,
+        "img":  "../../../assets/img/brands/7.jpg",
+        "title": "Resik V",
+        "slug": "resik-v",
+        "detail": "Women who love themselves surely want the best in keeping the harmony with their spouses. Because being beautiful for a woman is not only based on an outward appearance but on inner beauty as well. A healthy life starts from a healthy habit. Every woman who has the habit to..."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Baby Cleanser",
+    "slug": "baby-cleanser",
+    "img": "../../../assets/img/bg-page/brands/bg-baby.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/8.jpg",
+        "title": "Sleek Baby",
+        "slug": "sleek-baby",
+        "detail": "Sleek Baby memberi rasa nyaman bagi Ibu dan bayi. Sleek Baby memahami dan membantu setiap ibu dalam menjaga higienitas agar sang buah hati tetap terlindungi dari kuman penyakit. Formulasi alaminya telah teruji secara klinis dan sukses meraih penghargaan sebagai produk perawatan bayi berkualitas yang tepercaya, membuat Sleek Baby menjadi sahabat bagi banyak ibu di Indonesia. Sleek adalah pilihan tepat dan wujud kasih sayang ibu untuk memberikan yang terbaik untuk buah hatinya.",
+        "variety": [
+          {
+            "id": 1,
+            "name": "Bottle Nipple & Baby Accessories Cleanser",
+            "description": "Pembersih botol & peralatan bayi dengan formula FOOD GRADE yang aman untuk bayi. Mengandung Stain Removal Formula sehingga dapat menghilangkan sisa lemak susu dan bau amis yang menempel pada botol bayi.",
+            "img": "../../../assets/img/brands/variety/sleek-baby/Bottle-Nipple.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Laundry Detergent",
+            "description": "Detergent pembersih pakaian bayi terbuat dari Natural Plant Extract yang tidak menyisakan residu pada pakaian. Mencegah pakaian dari bau apek dengan Formula Anti Jamur dan Anti Bakteri.",
+            "img": "../../../assets/img/brands/variety/sleek-baby/Sleek-Laundry.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Travel Wash",
+            "description": "Konsentrat pembersih pakaian bayi dari noda membandel dengan kandungan Ekstrak Jeruk Nipis, dan di formulasikan dengan Natural Plant Extract sehingga tidak menyebabkan iritasi.",
+            "img": "../../../assets/img/brands/variety/sleek-baby/Sleek-TravelWash.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Natural Antibacterial 2 in 1 Hair & Body Foamy Wash",
+            "description": "Dengan Formula Hypoallergenic dan Natural Antibacterial teruji secara dermatologis terbukti efektif mencegah dan mengatasi iritasi di daerah popok. Gunakan setiap kali ganti popok untuk mencegah bakteri penyebab ruam muncul",
+            "img": "../../../assets/img/brands/variety/sleek-baby/foamywash.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Natural Antibacterial 2 in 1 Hair & Body Liquid Soap",
+            "description": "Dengan formula untuk membunuh bakteri dengan antibacterial alami dan sangat lembut untuk kulit sensitif dan aman untuk buah hati Anda.",
+            "img": "../../../assets/img/brands/variety/sleek-baby/liquidsoap.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Telon Oil",
+            "description": "Sleek Baby Telon Oil membantu menghilangkan bakteri penyebab iritasi kulit dan influenza dengan kandungan Natural Antibacterial, dan juga bahan-bahan alami yang aman untuk bayi, sehingga dapat mencegah perut kembung dan melancarkan pernafasan",
+            "img": "../../../assets/img/brands/variety/sleek-baby/Sleek-TelonOil.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Natural Antibacterial Diaper Cream",
+            "description": "Dengan Formula Hypoallergenic dan Natural Antibacterial teruji secara dermatologis terbukti efektif mencegah dan mengatasi iritasi di daerah popok. Gunakan setiap kali ganti popok untuk mencegah bakteri penyebab ruam muncul",
+            "img": "../../../assets/img/brands/variety/sleek-baby/Sleek-TravelWash.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kids Personal Care",
+    "slug": "kids-personal-care",
+    "img": "../../../assets/img/bg-page/brands/bg-baby.jpg",
+    "data": [
+      {
+        "id": 2,
+        "img":  "../../../assets/img/brands/9.jpg",
+        "title": "B&B Kids",
+        "slug": "B-B-kids",
+        "detail": "Playing time gives a chance for the kids to self-exploration which is useful for their growth. Only healthy kids can go through each stage of playing age optimally. At a certain age, kids have their own hero characters that fulfill their playing imagination. Knowing a positive character can help kids..."
+      },
+      {
+        "id": 3,
+        "img":  "../../../assets/img/brands/10.jpg",
+        "title": "Eskulin Kids",
+        "slug": "eskulin-kids",
+        "detail": "Rangkaian perawatan tubuh anak Eskulin Kids hadir dengan disain kemasan yang unik dihiasi karakter princess. Sambil bermain anak-anak mulai belajar membersihkan diri dan merawat tubuh dengan produk yang sesuai dengan usia mereka. Sehingga dengan pengetahuan belajar dengan menggunakan produk yang sesuai, anakpun belajar memiliki kebiasaan menjaga kebersihan dan disiplin dalam mengontrol kebersihan dirinya sendiri dengan baik.",
+        "variety": [
+          {
+            "id": 1,
+            "name": "Shampoo & Conditioner",
+            "description": "Shampoo & conditioner yang diperkaya dengan Pro-Vitamin B-5, Aloe Vera, dan Ekstrak lainnya, menjadikan rambut menajdi lebih kuat, lembut dan sehat. Keharumannya yang segar membuatmu bersemangat sepanjang hari.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/conditioner.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Hair Lotion",
+            "description": "Diformulasikan dengan Pro Vitamin B5, Aloe  Vera, dan Kemiri. Untuk membantu menutrisi dan melembutkan serta membantu rambut agar tetap hitam dan lebat. Miliki rambut yang indah dan sehat. Jadilah mempesona seperti Princess Sofia.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/HairLotion.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Hair Vitamin",
+            "description": "Diformulasikan mengandung Pro-Vitamin B5 dan Ekstrak Lidah Buaya. Dapat membantu memberi nutrisi & melembutkan rambut. Rambut terasa halus dan lembut sehingga mudah diatur.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/HairVitamin.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Cologne",
+            "description": "Sensasi kesegaran aroma yang menyegarkan dalam setiap percikan. Wanginya yang unik dan segar akan menemanimu beraktivitas sepanjang hari.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/Cologne.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Hair & Body Wash",
+            "description": "Diformulasikan dengan Olive Leaf Extract untuk melindungi kulit dari bakteri, Pro Vitamin B5 untuk menutrisi dan melembutkan rambut, serta formula yang lembut di mata. Keharumannya yang segar membuatmu bersemangat sepanjang hari.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/FoamyBodyWash.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Body Wash",
+            "description": "Sabun mandi berbentuk busa lembut, diperkaya dengan Aloe Vera, Ekstrak Olive Leaf dan Milk Protein dan Anti Bacterial untuk melindungi kulit dari bakteri dan menjaga agar kulit tetap lembut, segar dan sehat.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/BodyWash.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Shower Gel",
+            "description": "Sabun mandi berbentuk busa lembut, diperkaya dengan Aloe Vera, Ekstrak Olive Leaf dan Milk Protein dan Anti Bacterial untuk melindungi kulit dari bakteri dan menjaga agar kulit tetap lembut, segar dan sehat.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/ShowerGel.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Body Powder",
+            "description": "Bedak tabur yang diperkaya dengan Olive Leaf Extract  untuk melindungi kulit dari bakteri dan wangi yang unik. Memberikan kesegaran sepanjang hari.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/BodyPowder.jpg"
+          },
+          {
+            "id": 9,
+            "name": "Hand Sanitizer",
+            "description": "Gel pencuci tangan yang diformulasikan khusus untuk menghilangkan kotoran dan kuman tanpa menggunakan air dan sabun, juga diperkaya dengan Vitamin E untuk melembutkan kulit tangan anak.",
+            "img": "../../../assets/img/brands/variety/eskulin-kids/HandSanitizer.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "img":  "../../../assets/img/brands/11.jpg",
+        "title": "Master Kids",
+        "slug": "master-kids",
+        "detail": "It is completely natural that boys get attracted to fun stories and new adventures. Boys imagination is often identified by superhero characters. According to their favorite characters, kids would always want to look brave, helpful, and full of ideas. Superhero also gives example of politeness, carefulness, and environmentally minded. Boys..."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Hygiene Product",
+    "slug": "hygiene-product",
+    "img": "../../../assets/img/bg-page/brands/bg-fragnance.jpg",
+    "data": []
+  },
+  {
+    "id": 6,
+    "title": "Fragrance",
+    "slug": "fragrance",
+    "img": "../../../assets/img/bg-page/brands/bg-fragnance.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/12.jpg",
+        "title": "Eskulin",
+        "slug": "eskulin",
+        "detail": "To look beautiful and feel happy is delightful. It&rsquo;s no wonder many girls enjoy various beauty treatments to beautify themselves. For active, vibrant, lively girls, being beautiful means having the confidence to reach their dreams. To keep your spirit high through your daily activities, you need bestfriend that can support..."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Master Men",
+    "slug": "master-men",
+    "img": "../../../assets/img/bg-page/brands/bg-pharma.jpg",
+    "data": []
+  },
+  {
+    "id": 8,
+    "title": "Oral Care",
+    "slug": "oral-care",
+    "img": "../../../assets/img/bg-page/brands/bg-fragnance.jpg",
+    "data": []
+  },
+  {
+    "id": 8,
+    "title": "Air Freshner",
+    "slug": "air-freshner",
+    "img": "../../../assets/img/bg-page/brands/bg-fragnance.jpg",
+    "data": []
+  },
+  {
+    "id": 9,
+    "title": "Decorative",
+    "slug": "decorative",
+    "img": "../../../assets/img/bg-page/brands/bg-pharma.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/15.jpg",
+        "title": "Abstract",
+        "slug": "abstract",
+        "detail": "False eyelashes are ready to use, lightweight and comfortable to use every day."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Remedy Drink",
+    "slug": "remedy-drink",
+    "img": "../../../assets/img/bg-page/brands/bg-remedy.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/16.jpg",
+        "title": "Cap Kaki Tiga",
+        "slug": "cap-kaki-tiga",
+        "detail": "Cap Kaki Tiga merupakan minuman yang memberikan solusi pereda panas dalam dan mengandung mineral alami (gypsum fibrosum dan calcitum) yang dapat mencegah dan ampuh mengobati panas dalam. Larutan Cap Kaki Tiga dengan resep turun temurun tepercaya dan. telah dikonsumsi banyak keluarga selama berpuluh-puluh tahun sejak tahun 1937. Larutan Cap Kaki Tiga secara efektif mengurangi gejala panas dalam seperti radang tenggorokan, bibir pecah-pecah dan gangguan pencernaan",
+        "variety": [
+          {
+            "id": 1,
+            "name": "Lychee",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Leci.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Strawberry",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Stoberi.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Guava",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Jambu-Biji.jpg"
+          },
+          {
+            "id": 4,
+            "name": "Plain",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Plain.jpg"
+          },
+          {
+            "id": 5,
+            "name": "Orange",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Jeruk.jpg"
+          },
+          {
+            "id": 6,
+            "name": "Lime",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Jeruk-Nipis.jpg"
+          },
+          {
+            "id": 7,
+            "name": "Grape",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Anggur.jpg"
+          },
+          {
+            "id": 8,
+            "name": "Honey Dew",
+            "description": "Cap Kaki Tiga is the trusted solutions for inner body heat that contains of natural mineral (gypsum fibrosum and calcitum) that can helps to relieve body heat which prepared by heritage recipe and has been consumed for decades since 1937.<br>Larutan Cap Kaki Tiga, Setia Memberi Manfaat.",
+            "img": "../../../assets/img/brands/variety/capkaki/CK3-Melon.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "img":  "../../../assets/img/brands/17.jpg",
+        "title": "Cap Kaki Tiga Anak",
+        "slug": "cap-kaki-tiga-anak",
+        "detail": "Active kids are the healthy ones; but when kids are active, they will spend more energy which will make them more vulnerable to disease. Kids have tons of activities that often causes high body temperature. Based on this needs, Kids Cap Kaki Tiga has made an innovation for kids’ health..."
+      },
+      {
+          "id": 3,
+          "img":  "../../../assets/img/brands/29.jpg",
+
+          "title": "LARUTAN SEJUK SEGAR",
+          "slug": "larutan-sejuk-segar",
+          "detail": "Modern lifestyle most often makes our life less healthy and less attention to intake of nutritious foods. We tend to consume fast food and less fiber. Aside from that, sleep deprivation can also increase your inner body heat. Indication of inner body heat such as gingivitis, sore throat and digestive..."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Energy Drink",
+    "slug": "energy-drink",
+    "img": "../../../assets/img/bg-page/brands/bg-energy.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/18.jpg",
+        "title": "Panther",
+        "slug": "panther",
+        "detail": "Healthy and vigorous young people are active, dynamic, energetic, innovative, full of ideas, positive thinking and always ready for a challenge. They are always creative in creating new ideas or to take on another fun adventure that inspires others to bring another work or inspiring events. Today, we embark on..."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Asia Drink",
+    "slug": "asia-drink",
+    "img": "../../../assets/img/bg-page/brands/bg-remedy.jpg",
+    "data": []
+  },
+  {
+    "id": 13,
+    "title": "Juice Drink",
+    "slug": "juice-drink",
+    "img": "../../../assets/img/bg-page/brands/bg-juice.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/20.jpg",
+        "title": "Malee",
+        "slug": "malee",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat..."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Isotonik",
+    "slug": "isotonik",
+    "img": "../../../assets/img/bg-page/brands/bg-remedy.jpg",
+    "data": []
+  },
+  {
+    "id": 12,
+    "title": "Canned Fruit",
+    "slug": "canned-fruit",
+    "img": "../../../assets/img/bg-page/brands/bg-remedy.jpg",
+    "data": []
+  },
+  {
+    "id": 14,
+    "title": "Confectionaries",
+    "slug": "confectionaries",
+    "img": "../../../assets/img/bg-page/brands/bg-confec.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/21.jpg",
+        "title": "Chew Chew Ball",
+        "slug": "chew-chew-ball",
+        "detail": "Harmonious closeness with family is indeed a happiness that we can feel. Especially if we can experience the togetherness every day in the midst of activities and daily routine. Moments could be a fun way to create the bond between family members. Just like chatting after dinners, watching TV in..."
+      },
+      {
+        "id": 2,
+        "img":  "../../../assets/img/brands/22.jpg",
+        "title": "Kino Candy (Chewy)",
+        "slug": "kino-candy-chewy",
+        "detail": "Soft candy with various flavors and suitable with the tastes of the Indonesian archipelago with variant coffee, cappuccino, durian, mango, chocolate, ice cream, fruity, creamy, and barley mint."
+      },
+      {
+        "id": 3,
+        "img":  "../../../assets/img/brands/23.jpg",
+        "title": "Oplozz",
+        "slug": "oplozz",
+        "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lobortis felis risus, sit amet laoreet massa porttitor a. Nam eu justo sed massa finibus porta. Aenean consectetur condimentum laoreet. Donec facilisis a turpis nec accumsan. Vivamus imperdiet ipsum at sagittis accumsan."
+      },
+      {
+        "id": 4,
+        "img":  "../../../assets/img/brands/24.jpg",
+        "title": "Frenta",
+        "slug": "frenta",
+        "detail": "Candy with the first soda sensation in Indonesia. Available in packing bag with variants Lemonade, Strawberry Cola."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Powder Drink",
+    "slug": "powder-drink",
+    "img": "../../../assets/img/bg-page/brands/bg-energy.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/25.jpg",
+        "title": "Segar Sari",
+        "slug": "segar-sari",
+        "detail": "This product is available in powder form which is practically used by just pouring it in hot or cold air. This product has product variants, such as Segar Sari Orange Juice, Segar Sari Kulo Tea, Segar Sari Frutzz, Segar Sari Milk Soda, etc"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Snack",
+    "slug": "snack",
+    "img": "../../../assets/img/bg-page/brands/bg-snack.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/26.jpg",
+        "title": "Snack It",
+        "slug": "snack-it",
+        "detail": "Harmonious closeness with family is indeed a happiness that we can feel. Especially if we can experience the togetherness every day in the midst of activities and daily routine. Moments could be a fun way to create the bond between family members. Just like chatting after dinners, watching TV in..."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Pet Food",
+    "slug": "pet-food",
+    "img": "../../../assets/img/bg-page/brands/bg-petfood.jpg",
+    "data": [
+      {
+        "id": 1,
+        "img":  "../../../assets/img/brands/27.jpg",
+        "title": "Pro Balance",
+        "slug": "pro-balance",
+        "detail": "Our brand is ProDiet and ProBalance, where this brand is not a new brand in the pet food category because this brand has been marketed in Malaysia from 2006 and is currently the No. 2 Brand in Malaysia for the pet food category. The ProDiet and ProBalance Brands are also..."
+      },
+      {
+        "id": 2,
+        "img":  "../../../assets/img/brands/28.jpg",
+        "title": "Pro Diet",
+        "slug": "pro-diet",
+        "detail": "Our brand is ProDiet and ProBalance, where this brand is not a new brand in the pet food category because this brand has been marketed in Malaysia from 2006 and is currently the No. 2 Brand in Malaysia for the pet food category. The ProDiet and ProBalance Brands are also..."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Pharmaceutical",
+    "slug": "pharmaceutical",
+    "img": "../../../assets/img/bg-page/brands/bg-pharma.jpg",
+    "data": []
+  }
+]

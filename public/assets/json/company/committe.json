@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "division": "Audit Committe",
+      "positions": [ 
+        { 
+          "mainPosition": "Chairman" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            }
+          ]
+        },
+        { 
+          "mainPosition": "Member" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            },
+            {
+              "name": "Harry2",
+              "subPosition": "CEO"
+            },
+            {
+              "name": "Harry3",
+              "subPosition": "CEO"
+            }
+          ]
+        } 
+      ]
+    },
+    {
+      "id": 2,
+      "division": "Nomination & Remuneration Committee",
+      "positions": [ 
+        { 
+          "mainPosition": "Chairman" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            }
+          ]
+        },
+        { 
+          "mainPosition": "Member" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            },
+            {
+              "name": "Harry2",
+              "subPosition": "CEO"
+            },
+            {
+              "name": "Harry3",
+              "subPosition": "CEO"
+            }
+          ]
+        } 
+      ]
+    },
+    {
+      "id": 3,
+      "division": "Corporate Secretary",
+      "positions": [ 
+        { 
+          "mainPosition": "Chairman" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            }
+          ]
+        },
+        { 
+          "mainPosition": "Member" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            }
+          ]
+        } 
+      ]
+    },
+    {
+      "id": 4,
+      "division": "Internal Audit",
+      "positions": [ 
+        { 
+          "mainPosition": "Chairman" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            }
+          ]
+        },
+        { 
+          "mainPosition": "Member" ,
+          "people": [
+            {
+              "name": "Harry",
+              "subPosition": "CEO"
+            }
+          ]
+        } 
+      ]
+    }
+  ]

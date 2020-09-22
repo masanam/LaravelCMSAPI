@@ -1,0 +1,21 @@
+@extends('layouts.app')
+
+@section('contents')
+    {{-- <div class="content content-components"> --}}
+    <div class="content">
+        <div class="container">
+            @include('dashforge-templates::common.errors')
+
+            <h4 id="section1" class="mg-b-10">Releases Categories</h4>
+
+            <p class="mg-b-30">Please, fill all required fields before click save button.</p>
+
+            <div data-label="Edit" class="df-example demo-forms varians-forms">
+                {!! Form::model($varian, ['route' => ['admin.varians.update', $varian->id], 'method' => 'patch']) !!}
+                    @include('admin.varians.fields')
+                {!! Form::close() !!}
+            </div>
+        </div>
+    </div>
+    <!-- /.content -->
+@endsection
