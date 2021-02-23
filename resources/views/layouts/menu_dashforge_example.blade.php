@@ -2,21 +2,43 @@
 <li class="{{ Request::is('stats*') ? 'active' : '' }} nav-item">
     <a class="nav-link" href="{!! url('stats') !!}"><i data-feather="activity"></i><span>Stats</span></a>
 </li>
-<li class="{{ Request::is('myApps*') ? 'active' : '' }} nav-item">
-    <a class="nav-link" href="{!! route('myApps.index') !!}"><i data-feather="layers"></i><span>My Apps</span></a>
-</li>
-<li class="{{ Request::is('myBillings*') ? 'active' : '' }} nav-item">
-    <a class="nav-link" href="#"><i data-feather="battery-charging"></i><span>My Billing</span></a>
-</li>
-<li class="nav-label mg-t-25">Info</li>
-<li class="{{ Request::is('mails*') ? 'active' : '' }} nav-item">
-    <a class="nav-link" href="#"><i data-feather="mail"></i><span>Mail</span></a>
-</li>
-<li class="nav-label mg-t-25">Webapp</li>
-<li class="{{ Request::is('home*') ? 'active' : '' }} nav-item">
-    <a class="nav-link" href="{!! url('home') !!}"><i data-feather="box"></i><span>Products</span></a>
-</li>
-<li class="{{ Request::is('home/services*') ? 'active' : '' }} nav-item">
-    <a class="nav-link" href="#"><i data-feather="globe"></i><span>Services</span></a>
+
+          <li class="nav-item active"><a href="dashboard-one.html" class="nav-link"><i data-feather="shopping-bag"></i> <span>Sales Monitoring</span></a></li>
+          <li class="nav-item"><a href="dashboard-two.html" class="nav-link"><i data-feather="globe"></i> <span>Website Analytics</span></a></li>
+          <li class="nav-item"><a href="dashboard-three.html" class="nav-link"><i data-feather="pie-chart"></i> <span>Cryptocurrency</span></a></li>
+          <li class="nav-item"><a href="dashboard-four.html" class="nav-link"><i data-feather="life-buoy"></i> <span>Helpdesk Management</span></a></li>
+          <li class="nav-label mg-t-25">Web Apps</li>
+          <li class="nav-item"><a href="app-calendar.html" class="nav-link"><i data-feather="calendar"></i> <span>Calendar</span></a></li>
+          <li class="nav-item"><a href="app-chat.html" class="nav-link"><i data-feather="message-square"></i> <span>Chat</span></a></li>
+          <li class="nav-item"><a href="app-contacts.html" class="nav-link"><i data-feather="users"></i> <span>Contacts</span></a></li>
+          <li class="nav-item"><a href="app-file-manager.html" class="nav-link"><i data-feather="file-text"></i> <span>File Manager</span></a></li>
+          <li class="nav-item"><a href="app-mail.html" class="nav-link"><i data-feather="mail"></i> <span>Mail</span></a></li>
+
+          <li class="nav-label mg-t-25">Pages</li>
+          <li class="nav-item with-sub">
+            <a href="" class="nav-link"><i data-feather="user"></i> <span>User Pages</span></a>
+            <ul>
+              <li><a href="page-profile-view.html">View Profile</a></li>
+              <li><a href="page-connections.html">Connections</a></li>
+              <li><a href="page-groups.html">Groups</a></li>
+              <li><a href="page-events.html">Events</a></li>
+            </ul>
+          </li>
+          <li class="nav-item with-sub">
+            <a href="" class="nav-link"><i data-feather="file"></i> <span>Other Pages</span></a>
+            <ul>
+              <li><a href="page-timeline.html">Timeline</a></li>
+            </ul>
+          </li>
+          <li class="nav-label mg-t-25">User Interface</li>
+          <li class="nav-item"><a href="../../components" class="nav-link"><i data-feather="layers"></i> <span>Components</span></a></li>
+          <li class="nav-item"><a href="../../collections" class="nav-link"><i data-feather="box"></i> <span>Collections</span></a></li>
+        
+
+<li class="nav-label mg-t-25">User Management</li>
+
+
+<li class="{{ Request::is('users*') ? 'active' : '' }} nav-item">
+    <a class="nav-link" href="{!! route('admin.users.index') !!}"><i data-feather="edit"></i><span>Users</span></a>
 </li>
 
