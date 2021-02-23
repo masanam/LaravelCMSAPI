@@ -17,6 +17,7 @@
                 $('.column-search').append('<td></td>');
             } else {
                 $('.column-search').append('<td><input type="text" class="form-control" aria-controls="dataTableBuilder" placeholder="Search '+title+'" /></td>');
+
             }
         });
 

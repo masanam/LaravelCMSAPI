@@ -7,27 +7,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Twitter -->
-    <meta name="twitter:site" content="@KinoIndonesia">
-    <meta name="twitter:creator" content="@KinoIndonesia">
+    <meta name="twitter:site" content="@Nusahub">
+    <meta name="twitter:creator" content="@Nusahub">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="DashForge">
     <meta name="twitter:description" content="Responsive Bootstrap 4 Dashboard Template">
-    <meta name="twitter:image" content="http://www.kino.co.id/ ">
+    <meta name="twitter:image" content="http://www.Nusahub.co.id/ ">
 
     <!-- Facebook -->
-    <meta property="og:url" content="http://www.kino.co.id/dashforge">
+    <meta property="og:url" content="http://www.Nusahub.co.id/dashforge">
     <meta property="og:title" content="DashForge">
     <meta property="og:description" content="Responsive Bootstrap 4 Dashboard Template">
 
-    <meta property="og:image" content="http://www.kino.co.id/ ">
-    <meta property="og:image:secure_url" content="http://www.kino.co.id/ ">
+    <meta property="og:image" content="http://www.Nusahub.co.id/ ">
+    <meta property="og:image:secure_url" content="http://www.Nusahub.co.id/ ">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="600">
 
     <!-- Meta -->
     <meta name="description" content="Responsive Bootstrap 4 Dashboard Template">
-    <meta name="author" content="KinoIndonesia">
+    <meta name="author" content="Nusahub">
 
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('vendor/dashforge/assets/img/favicon.png') }}">
@@ -111,9 +111,9 @@
         </ul>
       </div><!-- navbar-menu-wrapper -->
       <div class="navbar-right">
-        <a href="http://dribbble.com/KinoIndonesia" class="btn btn-social"><i class="fab fa-dribbble"></i></a>
-        <a href="https://github.com/KinoIndonesia" class="btn btn-social"><i class="fab fa-github"></i></a>
-        <a href="https://twitter.com/KinoIndonesia" class="btn btn-social"><i class="fab fa-twitter"></i></a>
+        <a href="http://dribbble.com/Nusahub" class="btn btn-social"><i class="fab fa-dribbble"></i></a>
+        <a href="https://github.com/Nusahub" class="btn btn-social"><i class="fab fa-github"></i></a>
+        <a href="https://twitter.com/Nusahub" class="btn btn-social"><i class="fab fa-twitter"></i></a>
         <a href="https://themeforest.net/item/azia-responsive-bootstrap-4-dashboard-template/22983790" class="btn btn-buy"><i data-feather="shopping-bag"></i> <span>Buy Now</span></a>
       </div><!-- navbar-right --> --}}
     </header><!-- navbar -->
@@ -194,7 +194,7 @@
           </form><!-- sign-wrapper -->
           <div class="media-body pd-y-30 pd-lg-x-50 pd-xl-x-60 align-items-center d-none d-lg-flex pos-relative">
           <div class="mx-wd-600">
-              <img src="{{ asset('img/ptkino.png') }}" class="img-fluid" alt="">
+              <img src="{{ asset('img/Nusahub.png') }}" class="img-fluid" alt="">
             </div>
             <div class="pos-absolute b-0 r-0 tx-12">
             </div>
@@ -206,7 +206,7 @@
     <footer class="footer">
       <div>
         <span>&copy; 2020 webcore v1.1.1. </span>
-        <span>Created by <a href="http://www.kino.co.id">webcore</a></span>
+        <span>Created by <a href="http://www.Nusahub.co.id">webcore</a></span>
       </div>
       <div>
         <nav class="nav">

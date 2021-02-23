@@ -2,7 +2,7 @@
 
 namespace App\Exceptions;
 
-use Throwable;
+use Exception;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 
 class Handler extends ExceptionHandler
@@ -29,10 +29,12 @@ class Handler extends ExceptionHandler
     /**
      * Report or log an exception.
      *
+     * This is a great spot to send exceptions to Sentry, Bugsnag, etc.
+     *
      * @param  \Exception  $exception
      * @return void
      */
-    public function report(Throwable  $exception)
+    public function report(Exception $exception)
     {
         parent::report($exception);
     }
@@ -44,36 +46,92 @@ class Handler extends ExceptionHandler
      * @param  \Exception  $exception
      * @return \Illuminate\Http\Response
      */
-    public function render($request, Throwable $exception)
+    public function render($request, Exception $exception)
     {
-        if ($request->wantsJson() && !($e instanceof ValidationException)) {
-            $response = [
-                'message' => (string)$e->getMessage(),
-                'status_code' => 400,
-            ];
-    
-            if ($e instanceof HttpException) {
-                $response['message'] = Response::$statusTexts[$e->getStatusCode()];
-                $response['status_code'] = $e->getStatusCode();
-            } else if ($e instanceof ModelNotFoundException) {
-                $response['message'] = Response::$statusTexts[Response::HTTP_NOT_FOUND];
-                $response['status_code'] = Response::HTTP_NOT_FOUND;
-            }
-    
-            if ($this->isDebugMode()) {
-                $response['debug'] = [
-                    'exception' => get_class($e),
-                    'trace' => $e->getTrace()
-                ];
-            }
-    
-            return response()->json([
-                'status'      => 'failed',
-                'status_code' => $response['status_code'],
-                'massage'     => $response['message'],
-            ], $response['status_code']);
+        // return parent::render($request, $exception);
+        if ($request->wantsJson()) { // add Accept: application/json in request
+            return $this->handleApiException($request, $exception);
+        } else {
+            $retval = parent::render($request, $exception);
         }
     
-        return parent::render($request, $e);
+        return $retval;
+    }
+
+    private function handleApiException($request, Exception $exception)
+    {
+        $exception = $this->prepareException($exception);
+
+        if ($exception instanceof \Illuminate\Http\Exception\HttpResponseException) {
+            $exception = $exception->getResponse();
+        }
+
+        if ($exception instanceof \Illuminate\Auth\AuthenticationException) {
+            $exception = $this->unauthenticated($request, $exception);
+        }
+
+        if ($exception instanceof \Illuminate\Validation\ValidationException) {
+            $exception = $this->convertValidationExceptionToResponse($exception, $request);
+        }
+
+        return $this->customApiResponse($exception);
+    }
+
+    private function customApiResponse($exception)
+    {
+        if (method_exists($exception, 'getStatusCode')) {
+            $statusCode = $exception->getStatusCode();
+        } else {
+            $statusCode = 500;
+        }
+
+        $response = [];
+
+        switch ($statusCode) {
+            case 401:
+                $response['message'] = 'Unauthorized';
+                $response['errors'] = [
+                    'code' => $exception->getCode()
+                ];
+                break;
+            case 403:
+                $response['message'] = 'Forbidden';
+                $response['errors'] = [
+                    'code' => $exception->getCode()
+                ];
+                break;
+            case 404:
+                $response['message'] = 'Not found';
+                $response['errors'] = [
+                    'code' => $exception->getCode()
+                ];
+                break;
+            case 405:
+                $response['message'] = 'Method not allowed';
+                $response['errors'] = [
+                    'code' => $exception->getCode()
+                ];
+                break;
+            case 422:
+                $response['message'] = $exception->original['message'];
+                $response['errors'] = $exception->original['errors'];
+                break;
+            default:
+                $response['message'] = ($statusCode == 500) ? 'Whoops, looks like something went wrong' : $exception->getMessage();
+                $response['errors'] = [
+                    'code' => $exception->getCode(),
+                    'detail' => $exception->getMessage()
+                ];
+                break;
+        }
+
+        if (config('app.debug')) {
+            $response['trace'] = $exception->getTrace();
+            $response['code'] = $exception->getCode();
+        }
+
+        $response['status'] = $statusCode;
+
+        return response()->json($response, $statusCode);
     }
 }

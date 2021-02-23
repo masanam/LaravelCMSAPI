@@ -6,12 +6,12 @@
         <div class="container">
             @include('dashforge-templates::common.errors')
 
-            <h4 id="section1" class="mg-b-10">User</h4>
+            <h4 id="section1" class="mg-b-10">Users</h4>
 
             <p class="mg-b-30">Please, fill all required fields before click save button.</p>
 
             <div data-label="Edit" class="df-example demo-forms users-forms">
-                {!! Form::model($user, ['route' => ['admin.users.update', $user->id], 'method' => 'patch']) !!}
+                {!! Form::model($users, ['route' => ['admin.users.update', $users->id], 'method' => 'patch']) !!}
                     @include('admin.users.fields')
                 {!! Form::close() !!}
             </div>

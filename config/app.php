@@ -180,8 +180,8 @@ return [
         UniSharp\LaravelFilemanager\LaravelFilemanagerServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
         Laravel\Passport\PassportServiceProvider::class,
-        Appointer\Swaggervel\SwaggervelServiceProvider::class,
-        Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
+        // Appointer\Swaggervel\SwaggervelServiceProvider::class,
+        // Tymon\JWTAuth\Providers\LaravelServiceProvider::class,
     ],
 
     /*
@@ -196,7 +196,6 @@ return [
     */
 
     'aliases' => [
-
         'App' => Illuminate\Support\Facades\App::class,
         'Arr' => Illuminate\Support\Arr::class,
         'Artisan' => Illuminate\Support\Facades\Artisan::class,

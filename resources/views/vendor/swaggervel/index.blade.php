@@ -9,7 +9,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Kino.co.id API Documentation</title>
+        <title>Nusahub.co.id API Documentation</title>
         <link rel="icon" type="image/png" href="/vendor/swaggervel/images/favicon-32x32.png" sizes="32x32" />
         <link rel="icon" type="image/png" href="/vendor/swaggervel/images/favicon-16x16.png" sizes="16x16" />
         <link href='/vendor/swaggervel/css/typography.css' media='screen' rel='stylesheet' type='text/css'/>
@@ -132,7 +132,7 @@ header("Access-Control-Allow-Headers: X-Requested-With");
     <body class="swagger-section">
         <div id='header'>
             <div class="swagger-ui-wrap">
-                <a href="http://www.kino.co.id">
+                <a href="http://www.Nusahub.co.id">
                 <img src="{{ asset('img/logo.png') }}" alt="logo-fintech" style="width:150px;">
                 </a>
                 <form id='api_selector'>

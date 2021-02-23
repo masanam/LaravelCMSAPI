@@ -3,13 +3,13 @@
 @section('contents')
     {{-- <section class="content-header">
         <h1>
-            User
+            Users
         </h1>--}}
 
         {{--@include('admin.users.version')--}}
     {{-- </section> --}}
     <div class="content">
-        <h4>User</h4>
+        <h4>Users</h4>
 
         <div data-label="Show" class="df-example demo-forms users-forms">
             <div class="box box-primary">

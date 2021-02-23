@@ -24,11 +24,12 @@
                 </div>
             </div>
 
+
             <h4 class="mg-b-10">Users</h4>
 
             <div data-label="List" class="df-example demo-forms">
 
-            <div class="table table-striped table-responsive">
+            <div class="table-responsive">
                 @include('admin.users.table')
             </div>
             </div>
@@ -40,7 +41,7 @@
     <!-- Modal -->
     {{--<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
         <div class="modal-dialog" role="document">
-            <form class="modal-content" action="{!! url('importUser') !!}" method="post" enctype="multipart/form-data">
+            <form class="modal-content" action="{!! url('importUsers') !!}" method="post" enctype="multipart/form-data">
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title" id="myModalLabel">Data Import</h4>
